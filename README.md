@@ -6,6 +6,5 @@
 
 
 
-* Navya Chaudhary (@navyaachy)
-
+* Navya Chaudhary (@navyaachy) - Project Maintainer 
 
