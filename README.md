@@ -7,7 +7,7 @@
 
 
 * Navya Chaudhary (@navyaachy) - Project Maintainer 
-* Navya Chaudhary (@navyaachy)
+* Navya Chaudhary (@navyaachy) Project Maintainer and Repository Owner
 Aayushi Paul (@iamaayushipaul-del)
 
 
